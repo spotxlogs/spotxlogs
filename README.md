@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 👋 Hi I'm @Spotxlogs
+- 👋 Hi I'm @Bentaz
 - 🌱 I’m currently learning ReactJS
-- 🤔 I’m Interested in UI/UX
+- 🤔 I’m Interested in Info Sec
 - ⚡ Fun fact: Love to interact and learn new concepts
